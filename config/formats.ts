@@ -3448,4 +3448,10 @@ export const Formats: FormatList = [
 		banlist: ['AG'],
 		teambuilderFormat: 'Uber',
 	},
+	{
+		name: "[Gen 3] Better Than Creeps",
+		mod: 'betterthancreeps',
+		ruleset: ['Standard'],
+		banlist: ['Uber'],
+	},
 ];
